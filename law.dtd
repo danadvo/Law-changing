@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT law (title, sections, signatures) > 
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT sections (section+)>
+<!ELEMENT section (number, definition, subsection+)>
+<!ELEMENT number (#PCDATA)>
+<!ELEMENT definition (#PCDATA)>
+<!ELEMENT subsection (char*, content)>
+<!ELEMENT char (#PCDATA)>
+<!ELEMENT content (#PCDATA)>
+<!ELEMENT signatures (signed+)>
+<!ELEMENT signed (role, name)>
+<!ELEMENT role (#PCDATA)>
+<!ELEMENT name (#PCDATA)>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE law SYSTEM "law.dtd">
+<law>
+    <title> חוק־יסוד: כבוד האדם וחירותו</title>
+    <sections>
+        <section>
+            <number>1</number>
+            <definition>מטרה</definition>
+            <subsection>
+                <content>חוק­יסוד זה, מטרתו להגן על כבוד האדם וחירותו, כדי לעגן בחוק­יסוד את ערכיה של מדינת ישראל כמדינה יהודית ודמוקרטית.</content>
+            </subsection>
+        </section>
+        <section>
+            <number>2</number>
+            <definition>שמירה על החיים הגוף, והכבוד</definition>
+            <subsection>
+                <content>אין פוגעים בחייו, בגופו, או בכבודו של אדם באשר הוא אדם.</content>
+            </subsection>
+        </section>
+        <section>
+            <number>3</number>
+            <definition>שמירה על הקנין</definition>
+            <subsection>
+                <content>אין פוגעים בקנינו של אדם.</content>
+            </subsection>
+        </section>
+        <section>
+            <number>4</number>
+            <definition>הגנה על החיים, הגוף והכבוד</definition>
+            <subsection>
+                <content>כל אדם זכאי להגנה על חייו, על גופו ועל כבודו.</content>
+            </subsection>
+        </section>
+        <section>
+            <number>5</number>
+            <definition>חירות אישית</definition>
+            <subsection>
+                <content> אין נוטלים ואין מגבילים את חירותו של אדם במאסר, במעצר, בהסגרה או בכל דרך אחרת.</content>
+            </subsection>
+        </section>
+        <section>
+            <number>6</number>
+            <definition>יציאה מישראל וכניסה אליה</definition>
+            <subsection>
+                <char>א.</char>
+                <content>כל אדם חופשי לצאת מישראל.</content>
+            </subsection>
+            <subsection>
+                <char>ב.</char>
+                <content>כל אזרח ישראלי הנמצא בחוץ לארץ זכאי להיכנס לישראל.</content>
+            </subsection>
+        </section>
+        <section>
+            <number>7</number>
+            <definition>פרטיות וצנעת הפרט</definition>
+            <subsection>
+                <char>א</char>
+                <content>כל אדם זכאי לפרטיות ולצנעת חייו.</content>
+            </subsection>
+            <subsection>
+                <char>ב</char>
+                <content>אין נכנסים לרשות היחיד של אדם שלא בהסכמתו.</content>
+            </subsection>
+            <subsection>
+                <char>ג</char>
+                <content>אין עורכים חיפוש ברשות היחיד של אדם, על גופו, בגופו או בכליו.</content>
+            </subsection>
+            <subsection>
+                <char>ד</char>
+                <content>אין פוגעים בסוד שיחו של אדם, בכתביו או ברשומותיו.</content>
+            </subsection>
+        </section>
+        <section>
+            <number>8</number>
+            <definition>פגיעה בזכויות</definition>
+            <subsection>
+                <content>אין פוגעים בזכויות שלפי חוק­יסוד זה אלא בחוק ההולם את ערכיה של מדינת ישראל, שנועד לתכלית ראויה, ובמידה שאינה עולה על הנדרש.</content>
+            </subsection>
+        </section>
+        <section>
+            <number>9</number>
+            <definition>סייג לגבי כוחות הבטחון</definition>
+            <subsection>
+                <content>אין מגבילים זכויות שלפי חוק­יסוד זה של המשרתים בצבא­הגנה לישראל, במשטרת ישראל, בשירות בתי הסוהר ובארגוני הבטחון האחרים של המדינה, ואין מתנים על זכויות אלה, אלא לפי חוק ובמידה שאינה עולה על הנדרש ממהותו ומאופיו של השירות.</content>
+            </subsection>
+        </section>
+        <section>
+            <number>10</number>
+            <definition>שמירת דינים</definition>
+            <subsection>
+                <content>אין בחוק­יסוד זה כדי לפגוע בתקפו של דין שהיה קיים ערב תחילתו של חוק­היסוד.</content>
+            </subsection>
+        </section>
+        <section>
+            <number>11</number>
+            <definition>תחולה</definition>
+            <subsection>
+                <content>כל רשות מרשויות השלטון חייבת לכבד את הזכויות שלפי חוק­יסוד זה.</content>
+            </subsection>
+        </section>
+        <section>
+            <number>12</number>
+            <definition>יציבות החוק</definition>
+            <subsection>
+                <content>אין בכוחן של תקנות שעת­חירום לשנות חוק­יסוד זה, להפקיע זמנית את תקפו או לקבוע בו תנאים; ואולם בשעה שקיים במדינה מצב של חירום בתוקף הכרזה לפי סעיף 9 לפקודת סדרי השלטון והמשפט, התש"ח­1948 , מותר להתקין תקנות שעת­חירום מכוח הסעיף האמור שיהא בהן כדי לשלול או להגביל זכויות לפי חוק­יסוד זה, ובלבד שהשלילה או ההגבלה יהיו לתכלית ראויה ולתקופה ובמידה שלא יעלו על הנדרש.</content>
+            </subsection>
+        </section>
+    </sections>
+    <signatures>
+        <signed>
+            <role>ראש הממשלה</role>
+            <name>יצחק שמיר</name>
+        </signed>
+        <signed>
+            <role>נשיא המדינה</role>
+            <name>חיים הרצוג</name>
+        </signed>
+        <signed>
+            <role>יושב ראש הכנסת</role>
+            <name>דב שילנסקי</name>
+        </signed>
+    </signatures>
+</law>

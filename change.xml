@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE change_section SYSTEM "change.dtd">
+
+
+<change_section>
+    <group>חוקי-יסוד</group>
+    <title>כבוד האדם וחירותו</title>
+    <CHsections>
+        <CHsection>
+            <father>1</father>
+            <section>
+                <number>1א.</number>
+                <definition>מטרה</definition>
+                <subsection>
+                    <content>חוק־יסוד זה, מטרתו להגן על כבוד האדם וחירותו, כדי לעגן בחוק־יסוד את ערכיה של מדינת ישראל כמדינה יהודית ודמוקרטית.חוק־יסוד זה, מטרתו להגן על כבוד האדם וחירותו, כדי לעגן בחוק־יסוד את ערכיה של מדינת ישראל כמדינה יהודית ודמוקרטית.</content>
+                </subsection>
+            </section>
+        </CHsection>
+        <CHsection>
+            <section_num>8</section_num>
+                        <father>7</father>
+
+            <section>
+                <number>8</number>
+                <definition>פגיעה בזכויות</definition>
+                <subsection>
+                    <content>אין פוגעים בזכויות שלפי חוק־יסוד זה אלא בחוק ההולם את ערכיה של מדינת ישראל, שנועד לתכלית ראויה, ובמידה שאינה עולה על הנדרש או לפי חוק כאמור מכוח הסמכה מפורשת בו.</content>
+                </subsection>
+            </section>
+        </CHsection>
+    </CHsections>
+</change_section>

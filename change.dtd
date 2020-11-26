@@ -1,0 +1,13 @@
+<!ELEMENT change_section (group, title, CHsections) > 
+<!ELEMENT group (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT CHsections (CHsection+)>
+<!ELEMENT CHsection (section_num*, father*, section*)>
+<!ELEMENT section_num (#PCDATA)>
+<!ELEMENT father (#PCDATA)>
+<!ELEMENT section (number, definition, subsection+)>
+<!ELEMENT number (#PCDATA)>
+<!ELEMENT definition (#PCDATA)>
+<!ELEMENT subsection (char*, content)>
+<!ELEMENT char (#PCDATA)>
+<!ELEMENT content (#PCDATA)>
